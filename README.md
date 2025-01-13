@@ -1,4 +1,4 @@
-# Blog Title :link: https://yangbvv.github.io/blog 
+# Blog Title :link: https://blog.rui.run 
 ### :page_facing_up: [1](https://yangbvv.github.io/blog/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 10 
